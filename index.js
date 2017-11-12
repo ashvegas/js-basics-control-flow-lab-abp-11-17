@@ -1,3 +1,12 @@
-function scuberGreetingForFeet (<400) {
+function scuberGreetingForFeet(var){
+  if (var<400) {
   return "This one is on me!"
-}// Write your code in this file!
+}
+else if (var > 2000) {
+  return "I will gladly take your thirty bucks."
+}
+else if {
+  
+}
+  
+}
